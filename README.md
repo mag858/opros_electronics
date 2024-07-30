@@ -7,7 +7,7 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, arduino, HTML, python, C++, sport">	
 	</head>
 	
-    <body style=background-color:"#D5E7FF">
+    <body style="background-color:#D5E7FF">
     <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</b></p>
     
     <center><h1><b><font color = "#F42300">
@@ -27,7 +27,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<input type="text" name="email: "placeholder="Ваш email"></center>
+	<input type="text" name="email: " placeholder="Ваш email"></center>
 	
 	<p><b>1) какое устройство вы бы хотели преобрести от нас (часы, power bank, 3Д модели и т.п)?</b></p>
 			<p>
