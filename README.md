@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 	<title>MAG industries</title>
@@ -7,11 +7,11 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, arduino, HTML, python, C++, sport">	
 	</head>
 	
-    <body style=background-color:#D5E7FF>
-    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</a></b></p>
+    <body style=background-color:"#D5E7FF">
+    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</b></p>
     
     <center><h1><b><font color = "#F42300">
-    MAG industries</font><b></h1></center>
+    MAG industries</font><b>
     
     
     <h2><center><b><font color = "#F3A000">future - right now</font></b></center>
@@ -27,7 +27,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<input type="email " name="email: "placeholder="Ваш email"></center>
+	<input type="text" name="email: "placeholder="Ваш email"></center>
 	
 	<p><b>1) какое устройство вы бы хотели преобрести от нас (часы, power bank, 3Д модели и т.п)?</b></p>
 			<p>
@@ -44,7 +44,7 @@
 			c. металлический <img src="sait/metall.jpg" height ="70" width = "130">
 			<input type="checkbox" name="2. металический"></p>
             d. 
-			<input type="text" name="2. вид материала " placeholder="Ваш вид материала."></p>
+			<input type="text" name="2. вид материала " placeholder="Ваш вид материала.">
     
     
     <p><b> 3) Сколько по времени вы бы эксплуатировали устройство? </b></p>
@@ -84,5 +84,4 @@
   <center><input type="submit" value="отправить" class="btn" name="send">
 			
 			<input type="reset" value="сброс"></center>
-			</form>  </body>
-</html>
+			
