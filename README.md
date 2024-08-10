@@ -24,7 +24,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<p><input type="text " name="email: " placeholder="Ваш email"></center></p>
+	<p><input type="text " name="email: " placeholder="Ваш email"></p>
 	
 	<!--начало первого вопроса-->
 	
@@ -52,7 +52,7 @@
 			&emsp;&emsp; Металлический 
 			<input type="checkbox" name="2. металический"></p>
             
-			<input type="text" name="2. вид материала " placeholder="Ваш вид материала."></p>
+			<input type="text" name="2. вид материала " placeholder="Ваш вид материала.">
     
     <!--конец второго вопроса-->
     
